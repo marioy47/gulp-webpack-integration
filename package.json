@@ -20,7 +20,7 @@
     "gulp-sass": "^4.0.2",
     "node-sass": "^4.13.1",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-stream": "^5.2.1"
   }
 }
